@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/Swapi/static/css/main.363cf22a.css",
+    "main.js": "/Swapi/static/js/main.8b26c123.js",
+    "static/css/949.49d43b12.chunk.css": "/Swapi/static/css/949.49d43b12.chunk.css",
+    "static/js/949.f7967ba7.chunk.js": "/Swapi/static/js/949.f7967ba7.chunk.js",
+    "static/media/sobes.gif": "/Swapi/static/media/sobes.13d05b3c861b21893671.gif",
+    "static/media/bg.jpg": "/Swapi/static/media/bg.29b25be31315dad3ce4e.jpg",
+    "static/media/falcon.jpg": "/Swapi/static/media/falcon.c1d0a8d1869b3fbdb9ab.jpg",
+    "static/media/dark-side.jpg": "/Swapi/static/media/dark-side.e0f8cab78e4bdd7db45d.jpg",
+    "static/media/light-side.jpg": "/Swapi/static/media/light-side.eebc52171cd4ac0278ca.jpg",
+    "static/media/notfound.png": "/Swapi/static/media/notfound.1062f5e41ef989b5973a.png",
+    "static/media/lightsaber.svg": "/Swapi/static/media/lightsaber.eb7d4cd665426117002814db79fceef4.svg",
+    "static/media/space-station.svg": "/Swapi/static/media/space-station.7a027c6ec10ba7b5d8c880df5f4e65ea.svg",
+    "static/media/droid.svg": "/Swapi/static/media/droid.de165dd887badb2bdbe9d97b8e527c6f.svg",
+    "static/media/favorite-icon-active.svg": "/Swapi/static/media/favorite-icon-active.55cc8ac91ddb4764db30b720717e4955.svg",
+    "static/media/bookmark.svg": "/Swapi/static/media/bookmark.022e17091edcf08be184afef694d1934.svg",
+    "static/media/favorite-icon.svg": "/Swapi/static/media/favorite-icon.3d28e9f06bee9b6b0af5eed8c7079bda.svg",
+    "static/media/back.svg": "/Swapi/static/media/back.cbf39b5b2235096d802c2fdfca612915.svg",
+    "static/media/x.svg": "/Swapi/static/media/x.452be12b8f5d46ad997ffcbe6c83bf1e.svg",
+    "static/media/loading.svg": "/Swapi/static/media/loading.365001c63c8104a503a14fe6fe62c3b3.svg",
+    "static/media/bookmark-null.svg": "/Swapi/static/media/bookmark-null.b02764a55d1aeacc9e4016d960fa81d2.svg",
+    "index.html": "/Swapi/index.html",
+    "main.363cf22a.css.map": "/Swapi/static/css/main.363cf22a.css.map",
+    "main.8b26c123.js.map": "/Swapi/static/js/main.8b26c123.js.map",
+    "949.49d43b12.chunk.css.map": "/Swapi/static/css/949.49d43b12.chunk.css.map",
+    "949.f7967ba7.chunk.js.map": "/Swapi/static/js/949.f7967ba7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.363cf22a.css",
+    "static/js/main.8b26c123.js"
+  ]
+}
